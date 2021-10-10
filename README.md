@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mpb0
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python,Java,Data Structure
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
