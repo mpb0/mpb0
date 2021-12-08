@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mpb0
+- 👋 Hi, I’m Manish Praveen Barla
 - 👀 I’m interested in Python,Java,Data Structure
 
 
