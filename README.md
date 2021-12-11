@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manish Praveen Barla
-- 👀 I’m interested in Machine Learning, Cryptography....
+- 👀 I’m interested in Data Structure, Machine Learning, Cryptography....
 - 💎 I know Python, C, C++, Java
 
 
